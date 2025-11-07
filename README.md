@@ -60,8 +60,6 @@
 | **Ubuntu** | 20.04 / 22.04 | ☑️ |
 | **Debian** | 10 / 11 / 12 | ☑️ |
 
-> 🧪 Telah diuji langsung oleh developer. Versi lain dapat dicoba secara manual.
-
 ---
 
 ## 🧠 Panduan Cepat
@@ -69,50 +67,50 @@
 ### 🔹 Install Tema
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/VannDC/Autoinstaller-Theme-Pterodactyl/main/install.sh)
+```
 
-🔹 Install Protect (Anti Delete Admin)
-
+### 🔹 Install Protect (Anti Delete Admin)
+```bash
 bash <(curl -s https://raw.githubusercontent.com/VannDC/Autoinstaller-Theme-Pterodactyl/main/antidel.sh)
-
-📜 Langkah-langkah
-
-1️⃣ Pilih opsi 1
-2️⃣ Masukkan User ID Admin Utama
-3️⃣ Tunggu proses patch & build selesai 🎉
-
+```
 
 ---
 
-🧱 Build Manual (Jika Diperlukan)
+### 📜 Langkah-langkah
 
+1️⃣ Pilih opsi `1`  
+2️⃣ Masukkan **User ID Admin Utama**  
+3️⃣ Tunggu proses patch & build selesai 🎉  
+
+---
+
+### 🧱 Build Manual (Jika Diperlukan)
+```bash
 cd /var/www/pterodactyl
 yarn build:production --progress
-
+```
 
 ---
 
-🎬 Demo Preview
+### 🎬 Demo Preview
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VannDC/Autoinstaller-Theme-Pterodactyl/main/.github/preview.png" alt="Preview Panel" width="700"/>
-</p><p align="center">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/VannDC/Autoinstaller-Theme-Pterodactyl/main/.github/install-demo.gif" alt="Demo Install" width="700"/>
-</p>> 
-
-
-
+</p>
 
 ---
 
-👑 Credits
+## 👑 Credits
 
-💀 Kontributor	📎 Link
-
-VANZ RYUICHI	GitHub
-Project	Autoinstaller-Theme-Pterodactyl
-
-
+| 💀 Kontributor | 📎 Link |
+|----------------|---------|
+| **VANZ RYUICHI** | [GitHub](https://github.com/Vanxzofc) |
+| **Project** | [Autoinstaller-Theme-Pterodactyl](https://github.com/VannDC/Autoinstaller-Theme-Pterodactyl) |
 
 ---
 
-🧩 Script ini dibuat untuk mempermudah instalasi dan perlindungan Pterodactyl Panel.
+🧩 *Script ini dibuat untuk mempermudah instalasi dan perlindungan Pterodactyl Panel.*  
