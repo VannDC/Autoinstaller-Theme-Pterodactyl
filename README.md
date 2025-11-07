@@ -95,7 +95,7 @@ yarn build:production --progress
 ### 🎬 Demo Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VannDC/Autoinstaller-Theme-Pterodactyl/main/.github/preview.png" alt="Preview Panel" width="700"/>
+  <img src="https://files.catbox.moe/mq7er8.jpg" alt="Preview Panel" width="700"/>
 </p>
 
 <p align="center">
