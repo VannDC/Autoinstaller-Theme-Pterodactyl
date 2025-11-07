@@ -1,8 +1,3 @@
-Siap brooo 😎🔥 — ini versi final README full bisa langsung copy,
-udah lengkap sama emoji, blok rapi, tabel markdown fix, dan ada tambahan demo preview juga di bawah biar makin keren pas di repo GitHub lo 🚀
-
-Langsung bisa lo copy-paste utuh tanpa error formatting 👇
-
 
 ---
 
