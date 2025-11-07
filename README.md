@@ -11,11 +11,10 @@
 
 ---
 
-## ⚙️ Deskripsi Singkat
+
 > 🔧 Script otomatis untuk menginstall berbagai tema **Pterodactyl Panel**,  
 > lengkap dengan fitur **Protect** yang mencegah penghapusan admin utama dan server penting.  
->  
-> 🧠 Dibuat oleh **VanzRyuichi** untuk efisiensi, keamanan, dan kecepatan setup panel.
+
 
 ---
 
